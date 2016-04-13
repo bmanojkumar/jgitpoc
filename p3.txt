@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-xyz
-=======
 abc
->>>>>>> branch 'x' of https://github.com/bmanojkumar/jgitpoc.git
